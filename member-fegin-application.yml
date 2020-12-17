@@ -19,5 +19,5 @@ hystrix:
             maxConcurrentRequests: 20
 
 member:
-  userName: ldy
+  userName: sing song
 
