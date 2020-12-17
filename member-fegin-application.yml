@@ -19,7 +19,7 @@ hystrix:
             maxConcurrentRequests: 20
 
 member:
-  userName: sing song
+  userName: sing song test
 management:
   endpoints:
     web:
