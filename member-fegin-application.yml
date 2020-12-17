@@ -20,4 +20,13 @@ hystrix:
 
 member:
   userName: sing song
+management:
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always  
 
